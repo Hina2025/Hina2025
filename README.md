@@ -1,6 +1,8 @@
 ## Hi there
 I’m currently working on Clustering Datasets
+
 I’m currently learning Unsupervised ML
+
 I’m looking to collaborate on Data Science projects
 
 <!--
